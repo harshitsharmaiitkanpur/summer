@@ -15,10 +15,10 @@ Team Details
 	
        3.  Name: Shubh Gupta
 Email: shubhg@iitk.ac.in
-	Slack nick: ahsanb
- 	Phone:7318018978
+	Slack nick: shubhg
+ 	Phone:7318019018
 	Other Commitments: Competitive coding practice session by pclub
-	Prior Experience: Basics of python, JAVA
+	Prior Experience: Basics of python
 
        4.	Name: Ahsan  Barkati
 Email: ahsanb@iitk.ac.in
@@ -29,19 +29,19 @@ Email: ahsanb@iitk.ac.in
 
 Abstract
 1. What is the project?
-	This project is about making computer play thee Snake game. This is to be achieved by using the  reinforcement learning to train the computer to play. 
+	This project is about making computer play the Snake game. This is to be achieved by using the  reinforcement learning to train the computer to play by its experiences.
 
 2. Overview, Goals
-	In this project we will use reinforcement learning to train the computter program to play the snake game. We will learn the methods of MC ,TD and DP and will use it for sampling the environment according to some policy.we will use Q-learning to develop an optimal action selection policy. We will also learn about the neural networks and will implement it in some sort of statistical learning models for the snake game. By the end of our project our program will be able to learn and play the snake game.
+	In this project we will use reinforcement learning to train the computter program to play the snake game. We will learn the methods of MC ,TD and DP and will use it for sampling the environment according to some policy.We will use Q-learning to develop an optimal action selection policy. We will also learn about the neural networks and will implement it in some sort of statistical learning models for the snake game. By the end of our project our program will be able to learn and play the snake game.
 
 3. why did you choose the project?
-	We chose this project because we found the method of reinforcement and making the program learn according to the rewards and failure an interesting arena. It will  be a fun time for us making the computer play on its own according to its expirences. This would also be a very nice opportunity to learn machine learning and actually implementing it.......
+	We chose this project because we found the method of reinforcement and making the program learn according to the rewards and failure an interesting arena. It will  be a fun time for us making the computer play on its own according to its expirences. This would also be a very nice opportunity to learn machine learning and actually implementing it.
 
 4. Timeline
 
 	week1: Learning basics of MC and TD...getting hands better on num py
 	week 2: Learning Q-learning and policy gradient
 	week3: Studying neural nets and start impllementation on pong
-	week4:implementing on pong and testing it
+	week4: implementing on pong and testing it
 	week 5: start working on snake game
 	week 6: 
